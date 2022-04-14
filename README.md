@@ -13,5 +13,5 @@ Collecting the dataset of images of people wearing mask and not wearing mask.
 Data Processing
 Training the Convolutional Neural Network
 
-To implement the project, run the files on jupyter notebook, install the dataset and cascade classifier to detect faces.
+To implement the project, make sure you have your web cam enabled. Run the files on jupyter notebook, install the dataset and cascade classifier to detect faces.
 
