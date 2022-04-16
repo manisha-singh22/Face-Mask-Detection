@@ -15,3 +15,5 @@ Training the Convolutional Neural Network
 
 To implement the project, make sure you have your web cam enabled. Run the files on jupyter notebook, install the dataset and cascade classifier to detect faces.
 
+# Credits
+Made by Manisha Singh, Shreya Saini and Sakshi Chaudhary as part of evaluation for Computing Tools W/S. 
